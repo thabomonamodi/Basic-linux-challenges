@@ -1,0 +1,25 @@
+TASK 3:TASK 3: CAT COMMANDS
+
+1. recruit@umuzi-admin:~/workspace$ touch umuzi.md recruits.md cohort.md
+
+2. recruit@umuzi-admin:~/workspace$ vi umuzi.md
+   recruit@umuzi-admin:~/workspace$ vi recruits.md
+   recruit@umuzi-admin:~/workspace$ vi cohort.md
+
+3. recruit@umuzi-admin:~/workspace$ cat umuzi.md recruits.md cohort.md
+
+4. recruit@umuzi-admin:~/workspace$ cat * >> summary.md
+
+5. recruit@umuzi-admin:~/workspace$ echo "The End" >>summary.md CAT COMMANDS
+
+1. recruit@umuzi-admin:~/workspace$ touch umuzi.md recruits.md cohort.md
+
+2. recruit@umuzi-admin:~/workspace$ vi umuzi.md
+   recruit@umuzi-admin:~/workspace$ vi recruits.md
+   recruit@umuzi-admin:~/workspace$ vi cohort.md
+
+3. recruit@umuzi-admin:~/workspace$ cat umuzi.md recruits.md cohort.md
+
+4. recruit@umuzi-admin:~/workspace$ cat * >> summary.md
+
+5. recruit@umuzi-admin:~/workspace$ echo "The End" >>summary.md

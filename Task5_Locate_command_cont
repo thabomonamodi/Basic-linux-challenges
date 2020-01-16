@@ -1,0 +1,14 @@
+TASK 5: LOCATE COMMAND CONT..
+
+1. recruit@umuzi-admin:~/Documents$ touch pad.md
+
+2. recruit@umuzi-admin:~$ cd Desktop
+   recruit@umuzi-admin:~/Desktop$ mkdir work
+
+3. recruit@umuzi-admin:~/Desktop$ cp ~/Documents/pad.md pad_copy.md
+
+4. recruit@umuzi-admin:~/Desktop$ locate updatedb
+
+5. recruit@umuzi-admin:~/Desktop$ cd ..
+
+6. recruit@umuzi-admin:~$ locate pad_copy.md

@@ -1,0 +1,9 @@
+ASK 7: TEXT EDITOR
+
+1. recruit@umuzi-admin:~$ nano my_bio.md
+
+2. ctrl+o then ctrl+x
+
+3. recruit@umuzi-admin:~$ mkdir my_files
+
+4. recruit@umuzi-admin:~$ mv my_bio.md my_files

@@ -1,0 +1,5 @@
+TASK 4: LOCATE COMMAND
+
+1. recruit@umuzi-admin:~/workspace$ locate umuzi
+
+2. recruit@umuzi-admin:~/workspace$ locate umuzi >> search_result.md

@@ -1,0 +1,5 @@
+TASK 2: ABSOLUTE AND RELATIVE PATHS
+
+1. recruit@umuzi-admin:~/workspace touch exercise.md
+   recruit@umuzi-admin:~/workspace$ mv exercise.md /tmp
+   recruit@umuzi-admin:~/workspace$ rm /tmp/exercise.md

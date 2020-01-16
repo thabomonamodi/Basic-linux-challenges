@@ -1,0 +1,14 @@
+TASK 1: BASIC TASK
+
+1. I see folders: Desktop, Documents, Downloads, Music, Pictures, Public, Templates and Videos. This means that ls lists all the folders/prints content of directories.
+
+2. I see 2 directories: /home/recruit. This means that pwd shows the current working directory.
+
+3. recruit@umuzi-admin:~/workspace$ mkdir workspace 
+   recruit@umuzi-admin:~/workspace$ cd workspace
+
+4. Nothing, this means that the newly created folder/directory is empty.
+
+5. recruit@umuzi-admin:~/workspace$ touch README.md
+
+6. recruit@umuzi-admin:~/workspace$ cp README.md CHANGELOG.md

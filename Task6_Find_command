@@ -1,0 +1,7 @@
+TASK 6: FIND COMMAND
+
+1. recruit@umuzi-admin:~$ find . -type f -name "*pdf"
+
+2. recruit@umuzi-admin:~$ find /home/recruit/Downloads -name "*.pdf" -exec cp {} /home/recruit/Desktop \;
+
+3. recruit@umuzi-admin:~/Desktop$ find . -maxdepth 1 -newermt "2020-01-16"
